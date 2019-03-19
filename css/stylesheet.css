@@ -1,0 +1,34 @@
+/* # is a ID selector & . is a class selector*/
+
+
+.navbar-brand {background-color: #3E86FE;
+}
+
+.nav-link {color: white; 
+}
+
+    
+.navbar.sticky-top.navbar-light {background-color: #3E86FE;
+}
+
+.container-custom {height: 84px; width: 1920; 
+}
+
+
+.jumbotron.jumbotron-fluid {background-color: #3E86FE;
+}
+
+.image-sizing {
+    position: relative;
+    float: left;
+    width:  600px;
+    height: 600px;
+    background-position: 25% 25%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+
+.btn-primary {background-color: #FFD603;}
+
+.skills-text {color: #054F9D
+}

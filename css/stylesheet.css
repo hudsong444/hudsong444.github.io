@@ -3,10 +3,13 @@
 .navbar.sticky-top.navbar-light {background-color: #3E86FE;
 }
 
-.navbar-brand {background-color: #3E86FE; 
+.navbar-brand {background-color: #3E86FE;
 }
 
 .nav-link {color: white; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ 
+.btn-lg {border-radius: 3.7rem;
 }
 
 
@@ -15,7 +18,6 @@
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: right;
-   
    }
 
 .jumbotron.jumbotron-fluid {background-color: #3E86FE; color:white; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -39,4 +41,8 @@
 
 .icon-color {
     background-color: #FFD603;
+}
+
+.card-img-top {
+    width: 50%; height: auto;
 }
